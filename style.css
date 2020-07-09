@@ -1,0 +1,95 @@
+                    .button {
+                        border-radius: 12px;
+                    }
+                    
+                    .orange-bg {
+                        background-color: whitesmoke;
+                        border-radius: 20px;
+                    }
+                    
+                    .green {
+                        color: green;
+                    }
+                    
+                    .red {
+                        color: red;
+                    }
+                    
+                    .whitesmoke {
+                        background-color: whitesmoke;
+                    }
+                    
+                    .carousel-item {
+                        padding: 20px 40px;
+                    }
+                    
+                    .card {
+                        border: none;
+                        box-shadow: 5px 5px 10px lightgray;
+                    }
+                    
+                    .cat {
+                        padding: 60px 100px;
+                    }
+                    
+                    .card img {
+                        height: 80px;
+                        width: 75px;
+                        padding: 15px;
+                    }
+                    
+                    .middle {
+                        color: tomato;
+                        text-align: center;
+                    }
+                    
+                    .online-courses img {
+                        height: 200px;
+                        width: 290px;
+                    }
+                    
+                    .Buy-Now {
+                        background-image: linear-gradient(to bottom, green 0%, darkgreen 100%);
+                        color: white;
+                        border: none;
+                        border-radius: 8px;
+                        padding: 9px 25px;
+                        cursor: pointer;
+                    }
+                    
+                    .testi-box {
+                        background-color: white;
+                    }
+                    
+                    .testimonial {
+                        color: teal;
+                        padding: 20px;
+                        text-align: center;
+                    }
+                    
+                    .left-img {
+                        padding: 100px 320px;
+                    }
+                    
+                    .right-text {
+                        padding: -200px 100px;
+                    }
+                    
+                    .last-box {
+                        color: white;
+                        background-color: black;
+                        height: 200px;
+                    }
+                    
+                    .last-part {
+                        margin: 30px 60px;
+                        padding: 30px 40px;
+                    }
+                    
+                    .footer-color {
+                        padding-top: 20px;
+                        padding-bottom: 2px;
+                        text-align: center;
+                        color: white;
+                        background-color: black;
+                    }
